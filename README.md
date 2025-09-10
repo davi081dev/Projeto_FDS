@@ -24,64 +24,18 @@ A plataforma oferece as seguintes funcionalidades principais, baseadas nas hist�
 
 ## 🛠️ Tecnologias Utilizadas
 
-Este projeto foi construído utilizando as seguintes tecnologias:
+Este projeto será construído utilizando as seguintes tecnologias:
 
-  * **Linguagem de Programação:** [Indique a linguagem, por exemplo: Python, Java, JavaScript]
-  * **Framework:** [Indique o framework, por exemplo: Flask, Django, Spring Boot, React]
-  * **Banco de Dados:** [Indique o banco de dados, por exemplo: PostgreSQL, MySQL, SQLite]
-  * **Outras Ferramentas/Bibliotecas:** [Liste outras ferramentas relevantes]
 
------
-
-## ⚙️ Como Executar o Projeto
-
-Siga os passos abaixo para ter uma cópia local do projeto em execução.
-
-### Pré-requisitos
-
-Certifique-se de ter instalado:
-
-  * [Nome da tecnologia 1]
-  * [Nome da tecnologia 2]
-
-### Instalação
-
-1.  Clone o repositório:
-    ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
-    ```
-2.  Navegue até o diretório do projeto:
-    ```bash
-    cd nome-do-repositorio
-    ```
-3.  Instale as dependências:
-    ```bash
-    # Exemplo para Python
-    pip install -r requirements.txt
-    ```
-4.  Configure as variáveis de ambiente (se necessário):
-      * Crie um arquivo `.env` e adicione as variáveis necessárias, como chaves de API ou credenciais de banco de dados.
-5.  Execute o projeto:
-    ```bash
-    # Exemplo para Python
-    python app.py
-    ```
-
------
-
-## 🤝 Contribuição
-
-Contribuições são sempre bem-vindas\! Se você tiver sugestões de melhorias ou encontrar bugs, sinta-se à vontade para abrir uma *issue* ou um *pull request*.
 
 -----
 
 ## ✒️ Autores
 
-  * **[Seu Nome Completo]** - [Link para seu perfil do GitHub, LinkedIn, etc.]
-  * [Nome do seu colega, se houver] - [Link para o perfil dele]
-
------
-
-## 📄 Licença
-
-Este projeto está sob a licença [Nome da Licença, por exemplo: MIT License]. Veja o arquivo `LICENSE` para mais detalhes.
+Davi Lucas da Silva Pereira,
+Everton Nunes Batista,
+Hugo Vinícius de Lima Mendonça,
+Lucas Vinicius O. da Silva,
+Luiz Fernando Ramos de Toledo,
+Michel dos Santos Serpa,
+Thainá Pontes da Silva
