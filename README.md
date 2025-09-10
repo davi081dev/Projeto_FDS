@@ -26,7 +26,7 @@ Este projeto será construído utilizando as seguintes tecnologias:
 
 ## ✒️ Autores
 
-Davi Lucas da Silva,
+Davi Lucas da Silva Pinheiro,
 Everton Nunes Batista,
 Hugo Vinícius de Lima Mendonça,
 Lucas Vinicius O. da Silva,
