@@ -1,9 +1,3 @@
-Olá\! Para criar um bom README para o seu projeto no GitHub, é importante que a estrutura seja clara, concisa e informativa. Um bom README funciona como o cartão de visitas do seu projeto.
-
-Aqui está uma estrutura de texto ideal para o README do seu projeto, com foco em uma disciplina de **Fundamentos de Software**.
-
------
-
 ## 💻 Plataforma de Comunidade para Idosos
 
 Este projeto foi desenvolvido como parte da disciplina de **Fundamentos de Software**. O objetivo é criar uma plataforma digital que atenda às necessidades de socialização, bem-estar e aprendizado de pessoas idosas, combatendo o isolamento social e promovendo a qualidade de vida.
@@ -32,7 +26,7 @@ Este projeto será construído utilizando as seguintes tecnologias:
 
 ## ✒️ Autores
 
-Davi Lucas da Silva Pereira,
+Davi Lucas da Silva,
 Everton Nunes Batista,
 Hugo Vinícius de Lima Mendonça,
 Lucas Vinicius O. da Silva,
